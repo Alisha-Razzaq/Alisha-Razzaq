@@ -105,21 +105,13 @@ Python · Pandas · NumPy · Matplotlib · Seaborn
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alisha-Razzaq&show_icons=true&hide_border=true" />
-</p>
-
----
-
 ## Connect
 
 GitHub:
 https://github.com/Alisha-Razzaq
 
 LinkedIn:
-(Add your LinkedIn)
+https://www.linkedin.com/in/alisha-razzaq-812631367/
 
 Email:
-(Add your email)
+alisha88010@gmailcom
