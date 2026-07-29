@@ -114,4 +114,4 @@ LinkedIn:
 https://www.linkedin.com/in/alisha-razzaq-812631367/
 
 Email:
-alisha88010@gmailcom
+alisha88010@gmail.com
